@@ -1,0 +1,11 @@
+{
+    "id": "arcade_mode",
+    "name": "Arcade Mode",
+    "version": "1.0.0",
+    "description": [
+        "Convert Balatro into a classic arcade experience"
+    ],
+    "author": "OnfireNFS",
+    "load_before": [],
+    "load_after": []
+}
